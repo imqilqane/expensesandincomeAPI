@@ -163,8 +163,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'contact.fbpublisher@gmail.com'
 EMAIL_USE_TLS = True
-DEFAULT_FORM_EMAIL = 'contact.fbpublisher@gmail.com'
+DEFAULT_FORM_EMAIL = 'xxxxxxx@gmail.com'
 EMAIL_PORT = 587 
-EMAIL_HOST_PASSWORD = 'Imqilqane123+'
+EMAIL_HOST_PASSWORD = 'xxxxxxxxx+'
 
 AUTH_USER_MODEL = 'mainApp.User'
